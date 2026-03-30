@@ -23,7 +23,7 @@ Traditional LLMs often hallucinate or lack access to private, niche data. This p
 | **LLM** | Google Gemini Pro |
 | **Orchestration** | LangChain |
 | **Vector Database** | FAISS (Facebook AI Similarity Search) |
-| **Language** | Python / TypeScript |
+| **Language** | Python |
 | **Interface** | Streamlit |
 | **PDF Parsing** | PyPDF2 |
 
